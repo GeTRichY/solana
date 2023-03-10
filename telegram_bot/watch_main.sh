@@ -7,11 +7,11 @@ CLUSTER=m
 #если хочешь 1 ноду то в скобках указывается только один pub,vote,ip,TEXT и т.д. Добавить можно сколько угодно нод но каждый новый параметр через пробел!  
 PUB_KEY=(6K2KMQF6LUYB8XEgqUpWLBrKdBPweWn1EWTTuZxaLghZ AiZSaHVtGpof7Ho4vpfz37PRagkG1hR9ZJWKzoGCXiWv)
 VOTE=(A9igcq5tcmPjg8gy3soDnrmCMwXT3pmeFx3oojFjTfwc 4bhoRSz53dMABDx2CkA9KSXtu5NGhoJA1SzY1h2Pttqi)
-IP=(185.16.39.34 146.19.24.21 185.16.39.22 195.3.221.54 185.225.191.203)
+IP=(104.238.222.65 195.3.220.111)
 # telegram bot token, chat id,text,alarm text...
 BOT_TOKEN=6259092108:AAHXP-m9n3gotQiE-65-IJ4B_XTnRf1kRwY
-CHAT_ALARM=-1001611695684
-CHAT_INFO=-1001548522888
+CHAT_ALARM=-1001720605598
+CHAT_INFO=-1001905300765
 NODE_NAME=("LuCKyC-MaiN" "IG-MAIN")
 BALANCEWARN=(1 0.1) # если меньше этого числа на балансе то будет тревожное сообщение!
 echo -e
